@@ -117,12 +117,11 @@ Deploy: Vercel
 
 ## Step 9 - Execute the Development Process
 
-- 🚀 **Step 9: Execute the Development Process**
     
-    Start by building a **project skeleton**, define your **data models**, build **API endpoints**, then develop the **frontend UI**. Always test and iterate. Deploy early—even if incomplete—to catch issues fast. Add advanced features like automation and testing only if needed.
+Start by building a **project skeleton**, define your **data models**, build **API endpoints**, then develop the **frontend UI**. Always test and iterate. Deploy early—even if incomplete—to catch issues fast. Add advanced features like automation and testing only if needed.
     
 
-## ✅ Phase 1: Build Your MVP Locally
+## Phase 1: Build Your MVP Locally
 
 ### 1. **Frontend Skeleton**
 
@@ -133,7 +132,7 @@ Deploy: Vercel
     - UI framework (Tailwind CSS or Material UI)
     - Design in **Figma** if needed
 
-> ✅ Goal: Click around the site, even if backend doesn’t work yet
+> Goal: Click around the site, even if backend doesn’t work yet
 > 
 
 ---
@@ -148,7 +147,7 @@ Deploy: Vercel
 - Add **JWT authentication**
 - Create controller functions + request validation
 
-> ✅ Goal: API routes working locally using tools like Postman or curl
+> Goal: API routes working locally using tools like Postman or curl
 > 
 
 ---
@@ -164,7 +163,7 @@ Deploy: Vercel
     - Or raw SQL via `pg` or `mysql2` library
 - Set up environment variables securely (`.env`)
 
-> ✅ Goal: Backend can create & fetch users from the database
+> Goal: Backend can create & fetch users from the database
 > 
 
 ---
@@ -180,12 +179,12 @@ Deploy: Vercel
     - Hash passwords with bcrypt
     - Use JWT for login sessions
 
-> ✅ Goal: You can create an account, log in, and stay logged in
+> Goal: You can create an account, log in, and stay logged in
 > 
 
 ---
 
-## ✅ Phase 2: Deployment + Infrastructure
+## Phase 2: Deployment + Infrastructure
 
 ### 5. **Deploy MVP**
 
@@ -193,7 +192,7 @@ Deploy: Vercel
 - Backend → Render, Railway, or Fly.io (or use Vercel API routes)
 - Database → Supabase (managed PostgreSQL), PlanetScale, or RDS
 
-> ✅ Goal: Your website works live, others can sign up and log in
+> Goal: Your website works live, others can sign up and log in
 > 
 
 ---
@@ -206,7 +205,7 @@ Deploy: Vercel
 
 ---
 
-## ✅ Phase 3: Scaling & Features
+## Phase 3: Scaling & Features
 
 ### 7. **Add Core Features**
 
@@ -222,7 +221,7 @@ Deploy: Vercel
 
 ---
 
-## ✅ Phase 4: Polish and Launch
+## Phase 4: Polish and Launch
 
 ### 9. **Add Finishing Touches**
 
